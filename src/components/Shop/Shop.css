@@ -35,3 +35,6 @@
 .pagination .selected{
     background-color: orange;
 }
+.pagination .hideBtn{
+    display: none;
+}
